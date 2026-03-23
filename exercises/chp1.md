@@ -6,8 +6,9 @@
   - (c) 브로커와 같은 정보 전달 전담 서버의 이점을 설명하세요.
 
 2. Q2
-  - (a) Mosquitto와 Node-RED를 별도 서버에 설치할 경우의 이점을 설명하세요.
-  - (b) Mosquitto와 Node-RED를 운영하기 위한 적절한 컴퓨팅 환경을 기술하세요.
+  - <del>(a) Mosquitto와 Node-RED를 별도 서버에 설치할 경우의 이점을 설명하세요.</del>
+  - <del>(b) Mosquitto와 Node-RED를 운영하기 위한 적절한 컴퓨팅 환경을 기술하세요.</del>
+  - (c) (추가) Mosquitto와 Node-RED에 대해 설명하고, 실행에 적합한 컴퓨팅 환경을 제시하십시오.
 
 <del>3. 3개 이상의 개발 보드를 찾아서 특징과 장단점을 비교하세요.</del>
 
