@@ -16,7 +16,7 @@ class Animal:
         """
         self.name = name
         
-    def getName(self) -> str # 게터 메소드 = 속성 반환
+    def getName(self) -> str: # 게터 메소드 = 속성 반환
         """
         
         Return the Animal class's name.
