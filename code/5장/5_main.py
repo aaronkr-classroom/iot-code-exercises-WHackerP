@@ -15,5 +15,5 @@ print()
 temp = TemperatureSensor("Temp1")
 light = LightSensor("Light1")
 
-print("Teml: ", temp.read())
-print("Light: ", light.read())
+print("Temp:", temp.read())
+print("Light:", light.read())
