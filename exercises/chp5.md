@@ -16,4 +16,4 @@
    - input문으로 임의의 날짜 입력받음
    - days(), days_left(), week(), week_name()을 출력 
 
-   [파이썬 코드 실행하기](./code/5_class.py)
+   [파이썬 코드 실행하기] https://github.com/aaronkr-classroom/iot-code-exercises-WHackerP/blob/main/code/5%EC%9E%A5/5_class.py
