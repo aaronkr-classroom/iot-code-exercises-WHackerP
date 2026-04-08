@@ -15,3 +15,5 @@
    - while True:
    - input문으로 임의의 날짜 입력받음
    - days(), days_left(), week(), week_name()을 출력 
+
+   [파이썬 코드 실행하기](./4_hw_1.py)
